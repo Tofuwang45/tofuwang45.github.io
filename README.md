@@ -25,13 +25,12 @@ Passionate about building scalable solutions that bridge **research, product, an
 - Enabled non-technical stakeholders to explore accuracy, response time, and utterance length.  
 - Skills: `R Shiny`, `SBERT`, `Data Storytelling`, `Visualization`  
 
-### [Bike Abandonment Detection (Stanford GDSC Project)](https://github.com/Tofuwang45)  
-- Applied **computer vision** to detect abandoned bikes and reduce campus clutter.  
-- Skills: `Python`, `OpenCV`, `Deep Learning`  
-
-*(More projects available on my [GitHub Repositories](https://github.com/Tofuwang45))*  
-
----
+### [Rézme – Secure Multi-Role Talent Platform](https://github.com/Rezme-Inc/indeed-demo)  
+- Engineered secure **B2B onboarding APIs** → decreased client implementation time **70%**.  
+- Automated customer success processes via **AWS**, reducing infrastructure costs **40%**.  
+- Designed scalable **PostgreSQL/MySQL databases** and modular backend architecture for hiring operations.  
+- Directed a team of 4 to launch a **GPT-4o powered real-time translation platform**, improving client accessibility and operational efficiency **20%**.  
+- Skills: `Python`, `AWS`, `PostgreSQL`, `MySQL`, `REST APIs`, `Cloud Architecture`, `Team Leadership`  
 
 ## Professional Experience  
 
