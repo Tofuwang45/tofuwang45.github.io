@@ -1,8 +1,6 @@
 # Zihan Wang – Data Science Portfolio  
-
-Stanford University | QuestBridge Scholar  
 [zwang68@stanford.edu](mailto:zwang68@stanford.edu) | [LinkedIn](https://linkedin.com/in/zihanwang68) | [GitHub](https://github.com/Tofuwang45)  
-
+Stanford University | QuestBridge Scholar  
 ---
 
 ## About Me  
