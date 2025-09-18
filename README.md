@@ -11,22 +11,21 @@ Stanford Computer Science student with hands-on experience in **software enginee
 
 ## Selected Projects
 
-### [Stock Prediction with LSTM & Sentiment Analysis](https://github.com/Tofuwang45/Stock_Prediction)
-- Developed hybrid investment models combining **quantitative signals** + **Reddit sentiment data**.
-- Benchmarked via **Diebold-Mariano statistical test**, demonstrating performance above market baselines.
-- Skills: `Python`, `LSTM`, `NLP`, `Financial Modeling`, `Data Analysis`
+### [Rézme – Secure Multi-Role Talent Platform](https://github.com/Rezme-Inc/indeed-demo)
+- Engineered **B2B onboarding APIs**, reducing client implementation time **70%**.
+- Launched **GPT-4o real-time translation platform**, improving accessibility and efficiency **20%**.
+- Designed **PostgreSQL/MySQL database architecture** and modular backend for scalable hiring operations.
+- Skills: `JavaScript`, `AWS`, `PostgreSQL`, `MySQL`, `REST APIs`, `Cloud Architecture`, `Team Leadership`
 
 ### [NLP Visualization Dashboard for Reference Games](https://github.com/refbank/refbank-viz)
 - Built **interactive R Shiny dashboard** for analyzing multilingual communication.
 - Enabled **non-technical stakeholders** to explore utterance accuracy, response time, and length.
 - Skills: `R Shiny`, `SBERT`, `Data Storytelling`, `Visualization`
 
-### [Rézme – Secure Multi-Role Talent Platform](https://github.com/Rezme-Inc/indeed-demo)
-- Engineered **B2B onboarding APIs**, reducing client implementation time **70%**.
-- Launched **GPT-4o real-time translation platform**, improving accessibility and efficiency **20%**.
-- Designed **PostgreSQL/MySQL database architecture** and modular backend for scalable hiring operations.
-- Skills: `Python`, `AWS`, `PostgreSQL`, `MySQL`, `REST APIs`, `Cloud Architecture`, `Team Leadership`
-
+### [Stock Prediction with LSTM & Sentiment Analysis](https://github.com/Tofuwang45/Stock_Prediction)
+- Developed hybrid investment models combining **quantitative signals** + **Reddit sentiment data**.
+- Benchmarked via **Diebold-Mariano statistical test**, demonstrating performance above market baselines.
+- Skills: `Python`, `LSTM`, `NLP`, `Financial Modeling`, `Data Analysis`
 ---
 
 ## Professional Experience
