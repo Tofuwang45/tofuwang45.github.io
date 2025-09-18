@@ -1,88 +1,86 @@
-# Zihan Wang – Data Science Portfolio  
-[zwang68@stanford.edu](mailto:zwang68@stanford.edu) | [LinkedIn](https://linkedin.com/in/zihanwang68) | [GitHub](https://github.com/Tofuwang45)  
-Stanford University | QuestBridge Scholar  
----
-
-## About Me  
-
-I’m a Stanford Computer Science major (AI Track) with professional experience across **data science, machine learning, and software engineering**. I specialize in **predictive modeling, NLP, and dashboarding**—translating complex data into actionable insights.  
-
-Passionate about building scalable solutions that bridge **research, product, and business impact**.  
+# Zihan Wang – Software Engineering & AI Portfolio
+📧 zwang68@stanford.edu | 📱 (702) 215-1243 | [LinkedIn](https://linkedin.com/in/zihanwang68) | [GitHub](https://github.com/Tofuwang45)  
+Stanford University | B.S. Computer Science, AI Track | QuestBridge Scholar | Expected 2028
 
 ---
 
-## Featured Projects  
-
-### [Stock Prediction with LSTM & Sentiment Analysis](https://github.com/Tofuwang45/Stock_Prediction)  
-- Built hybrid investment models combining **quantitative signals** + **Reddit sentiment**.  
-- Benchmarked via **Diebold-Mariano test** against market baselines.  
-- Skills: `Python`, `LSTM`, `NLP`, `Financial Modeling`  
-
-### [NLP Visualization Dashboard for Reference Games](https://github.com/refbank/refbank-viz)  
-- Developed **R Shiny dashboard** to visualize multilingual communication data.  
-- Enabled non-technical stakeholders to explore accuracy, response time, and utterance length.  
-- Skills: `R Shiny`, `SBERT`, `Data Storytelling`, `Visualization`  
-
-### [Rézme – Secure Multi-Role Talent Platform](https://github.com/Rezme-Inc/indeed-demo)  
-- Engineered secure **B2B onboarding APIs** → decreased client implementation time **70%**.  
-- Automated customer success processes via **AWS**, reducing infrastructure costs **40%**.  
-- Designed scalable **PostgreSQL/MySQL databases** and modular backend architecture for hiring operations.  
-- Directed a team of 4 to launch a **GPT-4o powered real-time translation platform**, improving client accessibility and operational efficiency **20%**.  
-- Skills: `Python`, `AWS`, `PostgreSQL`, `MySQL`, `REST APIs`, `Cloud Architecture`, `Team Leadership`  
-
-## Professional Experience  
-
-**Data Analyst Intern – AMH (American Homes 4 Rent)** *(Summer 2025)*  
-- Deployed **XGBoost risk model** on 4M+ applicants → improved lead qualification **10%**.  
-- Built forecasting framework (SQL + Python) → increased lease renewal predictability **90%**.  
-- Produced executive reports and dashboards for data-driven decision making.  
-
-**Software Engineer – Rézme** *(2025–Present)*  
-- Designed secure **B2B APIs** → reduced onboarding time **70%**.  
-- Directed team of 4 on **GPT-4o powered translation platform** → boosted efficiency **20%**.  
-- Optimized data storage with PostgreSQL/MySQL for scalable client analytics.  
-
-**ML/NLP Researcher – Stanford Language & Cognition Lab** *(2024–Present)*  
-- Created **R Shiny dashboards** → cut analysis time **90%**.  
-- Applied **SBERT NLP models** → analyzed multilingual communication in tangram experiments.  
-- Collaborated with faculty to interpret findings and adapt research design.  
-
-**Language Models Researcher – Stanford SILICON Lab** *(2024–Present)*  
-- Designed frameworks for **digitizing underrepresented languages**, enabling robust NLP pipelines.  
-- Built **Unicode solutions** for multilingual text encoding.  
-- Advanced reproducibility in research by standardizing **linguistic datasets** for machine learning.  
-
-**Digital Strategy & Automation Specialist – Rise South City** *(2024–2025)*  
-- Automated volunteer/donor infrastructure → reduced admin workload **70%**.  
-- Implemented **behavioral segmentation** and data-driven outreach → increased engagement **30%**.  
-- Designed reporting systems that streamlined **finance and operations data analysis**.  
-
-**Information Technology Intern – Clark County Government Center** *(2023–2024)*  
-- Built **real-time budget dashboards** (Python + PowerBI) for multimillion-dollar fiscal planning.  
-- Rolled out **Okta SSO** across 10+ departments, improving access efficiency for 2K+ employees.  
-- Digitized workflows across HR, transportation, and finance through full-stack solutions.  
-
-**Lead Instructor – Code Ninjas** *(2022–2024)*  
-- Educated **500+ students** in programming; created 10+ project-based curricula.  
-- Led outreach with local organizations, driving **40% growth** in enrollment.  
-- Strengthened skills in **data storytelling, curriculum analytics, and community engagement**.  
+## About Me
+Stanford Computer Science student with hands-on experience in **software engineering, AI/ML, and scalable system design**. Experienced in **full-stack development, predictive modeling, and NLP**, with a track record of delivering **user-focused, high-impact products**. Passionate about building **inclusive, engaging digital learning experiences** and creating systems that **bridge research, technology, and business impact**.
 
 ---
 
-## Skills  
+## Selected Projects
 
-**Data & Analytics**: SQL, Python, R, Power BI, Tableau, Databricks, ETL, Data Wrangling  
-**Machine Learning**: XGBoost, LSTM, Scikit-learn, PyTorch, SBERT, GPT-4o, Forecasting, NLP  
-**Visualization & Tools**: R Shiny, AWS, Azure, CI/CD, Docker  
-**Business & Communication**: Data Storytelling, Dashboarding, Stakeholder Reporting, Agile Methodology  
-**Languages**: English, Mandarin, Shanghainese, Spanish  
+### [Stock Prediction with LSTM & Sentiment Analysis](https://github.com/Tofuwang45/Stock_Prediction)
+- Developed hybrid investment models combining **quantitative signals** + **Reddit sentiment data**.
+- Benchmarked via **Diebold-Mariano statistical test**, demonstrating performance above market baselines.
+- Skills: `Python`, `LSTM`, `NLP`, `Financial Modeling`, `Data Analysis`
+
+### [NLP Visualization Dashboard for Reference Games](https://github.com/refbank/refbank-viz)
+- Built **interactive R Shiny dashboard** for analyzing multilingual communication.
+- Enabled **non-technical stakeholders** to explore utterance accuracy, response time, and length.
+- Skills: `R Shiny`, `SBERT`, `Data Storytelling`, `Visualization`
+
+### [Rézme – Secure Multi-Role Talent Platform](https://github.com/Rezme-Inc/indeed-demo)
+- Engineered **B2B onboarding APIs**, reducing client implementation time **70%**.
+- Launched **GPT-4o real-time translation platform**, improving accessibility and efficiency **20%**.
+- Designed **PostgreSQL/MySQL database architecture** and modular backend for scalable hiring operations.
+- Skills: `Python`, `AWS`, `PostgreSQL`, `MySQL`, `REST APIs`, `Cloud Architecture`, `Team Leadership`
 
 ---
 
-## Connect  
+## Professional Experience
 
-- 💻 [GitHub Profile](https://github.com/Tofuwang45)  
+**Software Engineer – Rézme** *(2025–Present)*
+- Built secure **B2B APIs**, cutting onboarding time **70%**.
+- Directed team of 4 on **GPT-4o translation platform**, increasing operational efficiency **20%**.
+- Developed scalable **PostgreSQL/MySQL database solutions** for client analytics.
+
+**Data Analyst Intern – AMH (American Homes 4 Rent)** *(Summer 2025)*
+- Deployed **XGBoost risk model** on 4M+ applicants → improved lead qualification **10%**.
+- Created **SQL + Python forecasting framework**, increasing lease renewal predictability **90%**.
+- Produced dashboards and reports for **executive-level decision-making**.
+
+**ML/NLP Researcher – Stanford Language & Cognition Lab** *(2024–Present)*
+- Developed **R Shiny dashboards**, cutting analysis time **90%**.
+- Applied **SBERT NLP models** to analyze multilingual communication patterns.
+- Collaborated with faculty to translate research findings into **actionable insights**.
+
+**Language Models Researcher – Stanford SILICON Lab** *(2024–Present)*
+- Built frameworks for **digitizing and standardizing underrepresented languages**, including **Shanghainese**.
+- Designed **Unicode solutions** for NLP pipelines.
+- Advanced research reproducibility via **linguistic dataset standardization**.
+
+**Digital Strategy & Automation Specialist – Rise South City** *(2024–2025)*
+- Automated volunteer/donor processes → reduced admin workload **70%**.
+- Implemented **data-driven outreach strategies**, increasing engagement **30%**.
+- Designed **reporting systems** for operations and financial analysis.
+
+**Information Technology Intern – Clark County Government Center** *(2023–2024)*
+- Built **real-time budget dashboards** for multimillion-dollar fiscal planning.
+- Rolled out **Okta SSO** across 10+ departments → improved access efficiency for 2K+ employees.
+- Digitized workflows across HR, transportation, and finance with **full-stack solutions**.
+
+**Lead Instructor – Code Ninjas** *(2022–2024)*
+- Educated **500+ students**, created **10+ project-based curricula**.
+- Led outreach with local organizations → increased enrollment **40%**.
+- Strengthened skills in **data storytelling, curriculum analytics, and community engagement**.
+
+---
+
+## Skills
+
+**Programming & Development:** Python, Java, JavaScript, SQL, R, REST APIs, Docker, CI/CD, AWS, Azure  
+**Machine Learning & AI:** XGBoost, LSTM, Scikit-learn, PyTorch, TensorFlow, SBERT, GPT-4o, Forecasting, NLP  
+**Data & Analytics:** SQL, Python, R, Power BI, Tableau, Databricks, ETL, Data Wrangling, Dashboarding  
+**Visualization & Tools:** R Shiny, Tableau, Power BI, AWS, Azure  
+**Business & Collaboration:** Data Storytelling, Stakeholder Reporting, Agile Methodology, Cross-Functional Collaboration  
+**Languages:** English, Mandarin, Shanghainese, Spanish
+
+---
+
+## Connect
+- 💻 [GitHub](https://github.com/Tofuwang45)  
 - 🔗 [LinkedIn](https://linkedin.com/in/zihanwang68)  
-- 📧 [Email Me](mailto:zwang68@stanford.edu)  
+- 📧 [Email](mailto:zwang68@stanford.edu)
 
----
